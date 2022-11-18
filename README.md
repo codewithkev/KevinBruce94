@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate junior developer from The Netherlands</h3>
-<img align=“right” alt="Coding" height="200" src=“https://dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
+<img align=“right” alt="Coding" height="200" src=“https://programmer.gif">
 
 - 🌱 I’m currently learning **Python and related subjects**
 
