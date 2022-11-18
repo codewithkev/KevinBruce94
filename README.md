@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">A passionate junior developer from The Netherlands</h3>
+<h3 align="center">A passionate Junior Developer from The Netherlands</h3>
 <img align=“right” alt="Coding" height="200" src=“https://programmer.gif">
 
 - 🌱 I’m currently learning **Python and related subjects**
