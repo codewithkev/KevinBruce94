@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 <h3 align="center">A passionate Junior Developer from The Netherlands</h3>
-<img align=“right” alt="Coding" height="200" src=“https://programmer.gif">
+![ezgif com-resize](https://user-images.githubusercontent.com/29614782/202716421-832c79be-f6f0-4210-a384-b02be6f815ba.gif)
+<img align=“right” alt="Coding" width="200" height="200" src=“https://github.com/KevinBruce94/KevinBruce94/blob/52646af4e635f60ebbf5027156d482e29c65fa41/programmer.gif">
+
 
 - 🌱 I’m currently learning **Python and related subjects**
 
