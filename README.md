@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and related subjects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KevinBruce94](https://github.com/KevinBruce94)
+- 👨‍💻 All of my projects are available at [https://github.com/KevinBruce94](https://github.com/codewithkev)
 
 
 <h3 align="left">Languages and Tools:</h3>
